@@ -10,10 +10,13 @@ _Fast • Simple • Secure_
 
 ### 🔹 Method: Clone & Run
 ```
-git clone https://github.com/yourusername/hosting-installer.git
-cd hosting-installer
-chmod +x install.sh
-./install.sh
+$ git clone https://github.com/yourusername/hosting-installer.git
+
+$ cd hosting-installer
+
+$ chmod +x install.sh
+
+$ ./install.sh
 ```
 
 ## ✨ Features
