@@ -8,7 +8,7 @@ _Fast • Simple • Secure_
 
 ## 📥 Installation
 
-### 🔹 Method 1: Clone & Run
+### 🔹 Method: Clone & Run
 ```
 git clone https://github.com/yourusername/hosting-installer.git
 cd hosting-installer
