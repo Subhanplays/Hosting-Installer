@@ -1,4 +1,4 @@
-````markdown
+
 # 🚀 Hosting Installer
 
 **Automated installer for hosting panels, wings, and dependencies.**  
@@ -9,22 +9,22 @@ _Fast • Simple • Secure_
 ## 📥 Installation
 
 ### 🔹 Method 1: Clone & Run
-```bash
+```
 git clone https://github.com/yourusername/hosting-installer.git
 cd hosting-installer
 chmod +x install.sh
 ./install.sh
-````
+```
 
 ### 🔹 Method 2: Direct Download
 
-```bash
+```
 wget https://raw.githubusercontent.com/yourusername/hosting-installer/main/install.sh -O hosting-installer.sh
 chmod +x hosting-installer.sh
 ./hosting-installer.sh
 ```
 
----
+
 
 ## ✨ Features
 
