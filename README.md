@@ -16,16 +16,6 @@ chmod +x install.sh
 ./install.sh
 ```
 
-### 🔹 Method 2: Direct Download
-
-```
-wget https://raw.githubusercontent.com/yourusername/hosting-installer/main/install.sh -O hosting-installer.sh
-chmod +x hosting-installer.sh
-./hosting-installer.sh
-```
-
-
-
 ## ✨ Features
 
 * ⚡ **One-Command Setup** – Install panel & wings in minutes
